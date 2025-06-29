@@ -1,12 +1,45 @@
-# React + Vite
+# Rey de reyes Totonicapán
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built with React and Vite for Rey de reyes Totonicapán.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Modern React**: Built with React 19 for optimal performance
+- **Fast Development**: Powered by Vite for lightning-fast development experience
+- **Responsive Design**: Styled with Tailwind CSS for mobile-first responsive design
+- **Custom Branding**: Tailored design with custom color scheme
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React 19
+- **Build Tool**: Vite 6.3.5
+- **Styling**: Tailwind CSS (via CDN)
+- **Language**: JavaScript (JSX)
+- **Package Manager**: npm
+
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (version 18 or higher)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+## 🔧 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repository-url>
+   cd reydereyestotonicapan
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+
+4. **Open your browser Navigate to http://localhost:5173 to view the application**
+
+5. **To build the project for production**
+    ```bash
+    npm run build
